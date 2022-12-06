@@ -1,5 +1,5 @@
-lib/
+/lib
 /src/**/*.js
-tests/
-node_modules/
-dist/
+/tests
+/node_modules
+/dist

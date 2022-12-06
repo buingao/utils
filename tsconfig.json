@@ -103,5 +103,5 @@
   // 排除目录
   "exclude": ["node_modules", "dist", "lib"],
   // 导入目录
-  "include": ["src/*"]
+  "include": ["src/**/*"]
 }
