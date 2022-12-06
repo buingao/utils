@@ -49,6 +49,7 @@
 如：
 
 ```js
-UrlHandler.obj2queryParams({ name: 'gornin', age: 100, score: undefined })
-// 'name=gornin&age=100'
+import { UrlHandler } from '@gornin/utils'
+UrlHandler.obj2queryParams({ name: 'gornin', score: 100, age: undefined })
+// 'name=gornin&score=100'
 ```
