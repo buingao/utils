@@ -16,6 +16,12 @@
   },
   "author": "gornin",
   "license": "ISC",
+  "homepage": "https://github.com/buingao/utils#readme",
+  "keywords": [
+    "Util",
+    "Typescript",
+    "Frontend"
+  ],
   "devDependencies": {
     "@babel/cli": "^7.19.3",
     "@babel/core": "^7.20.5",
